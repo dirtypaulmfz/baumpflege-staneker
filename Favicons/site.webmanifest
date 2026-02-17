@@ -1,0 +1,25 @@
+{
+  "name": "Baumpflege Staneker",
+  "short_name": "Baumpflege",
+  "icons": [
+    {
+      "src": "/favicon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#ff5640",
+  "background_color": "#fefefe",
+  "display": "standalone",
+  "start_url": "https://www.baumpflege-staneker.de/"
+}
